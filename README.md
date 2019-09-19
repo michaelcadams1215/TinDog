@@ -1,2 +1,1 @@
-# TinDog
-Sample Startup Landing Page
+TinDog Starting Files
